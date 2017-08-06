@@ -1,0 +1,41 @@
+body{
+    background: whitesmoke;
+
+}
+
+.sudheading{
+    text-align: center;
+    display: block;
+    font-family: 'Playfair Display', serif;
+    font-size: 16px;
+    font-style: italic;
+   line-height: 14px;
+  margin-left: 10px;
+}
+
+
+
+#news{
+    font-style: normal;
+    text-align: justify;
+
+}
+
+.caption {
+    font-style: normal;
+    text-align: justify;
+}
+.row2{
+padding: 0;
+margin: 0;
+font-style: normal;
+}
+
+.formou{
+ height:40%;
+
+}
+p{
+ font-style: normal;   
+}
+
